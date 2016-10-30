@@ -1,0 +1,17 @@
+  var A,B,C;
+  A = 0 ;
+  B = 1 ;
+  C = B;
+
+for (var i =1; i< 10; i++){  // Bucle para realizarlo n veces
+   // document.write(A); 
+   
+console.log (A)              // Mostrar por consola valor de A
+  C = A+B;
+  A=B;
+  B=C;
+}
+
+
+
+
