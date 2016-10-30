@@ -3,9 +3,9 @@ A = 21;
 B = 13;
 C = B;
 
-for (var i =1; i< 9; i++){  // Bucel para repetirlo n  veces
+for (var i =1; i< 9; i++){  // Bucle para repetirlo "n"  veces
   // document.write(A); 
-console.log(A);             // Mostrar por consola A
+console.log(A);             // Mostrar por consola valor de A
 
 C = A - B;
 A = B;
